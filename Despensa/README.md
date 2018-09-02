@@ -1,4 +1,4 @@
-#Contexto Delimitado para Controle de Despensa
+# Contexto Delimitado para Controle de Despensa
 ## Entidades para o Domínio:
 ### Local. Exemplo: Geladeira, Câmara Fria, Freezer, Isopor, Armário, Despensa Física
 ### Categoria do Local: [Quente, Frio]
